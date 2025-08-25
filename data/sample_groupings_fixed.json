@@ -1,0 +1,62 @@
+[
+  {
+    "Instrument ID": "BOND1001",
+    "First Group": "Government",
+    "Second Group": "Treasury",
+    "Third Group": "US"
+  },
+  {
+    "Instrument ID": "BOND1002",
+    "First Group": "Government",
+    "Second Group": "Treasury",
+    "Third Group": "UK"
+  },
+  {
+    "Instrument ID": "BOND1003",
+    "First Group": "Government",
+    "Second Group": "Agency",
+    "Third Group": "US"
+  },
+  {
+    "Instrument ID": "BOND1004",
+    "First Group": "Corporate",
+    "Second Group": "Financial",
+    "Third Group": "Banking"
+  },
+  {
+    "Instrument ID": "BOND1005",
+    "First Group": "Corporate",
+    "Second Group": "Financial",
+    "Third Group": "Insurance"
+  },
+  {
+    "Instrument ID": "BOND1006",
+    "First Group": "Corporate",
+    "Second Group": "Technology",
+    "Third Group": "Software"
+  },
+  {
+    "Instrument ID": "BOND1007",
+    "First Group": "Corporate",
+    "Second Group": "Technology",
+    "Third Group": "Hardware"
+  },
+  {
+    "Instrument ID": "BOND1008",
+    "First Group": "Corporate",
+    "Second Group": "Consumer",
+    "Third Group": "Retail"
+  },
+  {
+    "Instrument ID": "BOND1009",
+    "First Group": "Municipal",
+    "Second Group": "Revenue",
+    "Third Group": "Water"
+  },
+  {
+    "Instrument ID": "BOND1010",
+    "First Group": "Municipal",
+    "Second Group": "Revenue",
+    "Third Group": "Transportation"
+  }
+] 

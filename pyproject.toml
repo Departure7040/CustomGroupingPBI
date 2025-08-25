@@ -1,0 +1,26 @@
+[project]
+name = "tmdl-live-editor"
+version = "0.1.0"
+description = "Python desktop app for editing live Power BI Desktop models using XMLA and pyadomd."
+authors = [
+  { name="Your Name", email="your@email.com" }
+]
+requires-python = ">=3.9"
+dependencies = [
+  "pandas>=2.0.0",
+  "pyadomd>=0.3.5",
+  "pythonnet>=3.0.2",
+  "openpyxl>=3.1.0",  # for Excel I/O
+  "pyqt5>=5.15.10",   # or swap with 'tkinter' depending on GUI choice
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.0.0",
+  "black",
+  "mypy"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
